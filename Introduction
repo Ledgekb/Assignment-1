@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <meta charset="UTF-8">
+          <title>My web Page </title>
+
+    </head>
+    <body>
+        <header>
+            <h1>my webiste Heading</h1>
+        </header>
+        <p>This is an example of a paragraph.</p>
+        </form>
+              <label for = "full name">Full Name:</label>
+              <input type="text" id="full name" name ="full-name" >
+              <br>
+              <input type = "submit" value="Register">
+        </form>  
+        <br>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr> 
+                    <td>Kulani</td>
+                    <td>KulaniLedge@gmail.com</td>
+                    <td> 0765992459</td> 
+                </tr>
+            </tbody>
+        </table>    
+        <br>
+        <img src="WhatsApp Image 2024-06-28 at 09.12.22.jpeg" alt="This is a pic of me.">
+         <br>
+         <a href="https://google.com">Visit Google</a>
+    </body>
+
+</html> 
